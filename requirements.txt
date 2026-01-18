@@ -5,3 +5,6 @@ scikit-learn
 pandas
 pytest
 pytest-order
+opencv-python
+numpy
+matplotlib
