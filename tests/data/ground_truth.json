@@ -1,0 +1,4 @@
+[
+    {"start_frame": 10, "end_frame": 20, "label": "spatial"},
+    {"start_frame": 30, "end_frame": 40, "label": "speed"}
+]
